@@ -2,7 +2,7 @@
   "mod_id": "Bn3KP1GsSBbpJ",
   "mod_reference": "RatioSplitters",
   "name": "RatioSplitters",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "sml_version": "2.0.0",
   "description": "Adds splitters that use exact item counts.",
   "authors": ["Rusketh"],
